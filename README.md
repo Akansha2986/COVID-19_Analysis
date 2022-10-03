@@ -1,4 +1,4 @@
-# Covid-19 Data Analysis Using Python & Tableau By Avni Sharma
+# Covid-19 Data Analysis Using Python & Tableau
 This data science project is on **Covid-19 data analysis using Python and Tableau**. 
 Here we processed the data using Pandas and requests libraries of Python and Analyzed it using tableau.
 In this video, you will learn how to collect data using web scrapping with read_html function. 
